@@ -26,12 +26,6 @@ I am a Researcher in Artificial Intelligence <img src="https://media.giphy.com/m
 <a href="https://www.youtube.com/c/redaghanem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="redaghanem" height="30" width="40" /></a>
 </p>
 
--  How to reach me: &nbsp; 
-<a href="https://twitter.com/dr_reda_ghanem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dr_reda_ghanem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dr-reda-ghanem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr-reda-ghanem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/redaghanem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="redaghanem" height="30" width="40" /></a>
-
-
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
