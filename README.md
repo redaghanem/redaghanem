@@ -10,7 +10,7 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
 
 <!-- ### :woman_technologist: &nbsp;About Me : -->
-### <img src="images/aBOUT_ME.gif" width="20"> About Me :
+### <img src="images/about_me.gif" width="30"> About Me :
 
 I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"> from Egypt.
 
