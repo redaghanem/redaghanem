@@ -12,7 +12,7 @@ Location: Canberra, Australia
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p> -->
 
-<p align="center"><img src="images/focus_trans.gif" width="740" height="490" /></p>
+<p align="center"><img src="images/focus_trans.gif"  /></p>
 
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
