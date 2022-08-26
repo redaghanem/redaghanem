@@ -6,14 +6,13 @@ Location: Canberra, Australia
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h3 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Reda Ghanem
-</h3>
+<img src="images/line.gif" width="20"> <h3 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Reda Ghanem </h3> <img src="images/line.gif" width="20">
 
 <!-- <h1></h1> -->
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p> -->
 
-<p align="center"><img src="images/focus2.gif" width="740" height="490" /></p>
+<p align="center"><img src="images/focus_trans.gif" width="740" height="490" /></p>
 
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
@@ -117,7 +116,7 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
 ---
 
 <!-- ### 🔥 &nbsp; My Stats : -->
-### <img src="images/fire1.gif" width="20"> &nbsp; My Stats :
+### <img src="images/fire.gif" width="20"> &nbsp; My Stats :
 
 <p style="display: table;"><img
         src="https://github-readme-stats.vercel.app/api?username=redaghanem&show_icons=true&locale=en"
