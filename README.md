@@ -13,9 +13,9 @@
 
 I am a researcher in Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- 🔭 I’m working as a Software Engineer and contributing to solve AI Problems.
-- 🌱 Assistant Lecturer at Benha University, Faculty of Science, Department of Computer Science.
-- ⚡ PhD Student/Researcher in Computer Science at the University of New South Wales, Australia.
+- 👨🏻‍💻 working as a Software Engineer and contributing to solve AI Problems.
+- 📝 Assistant Lecturer at Benha University, Faculty of Science, Department of Computer Science, Egypt.
+- 👨🏻‍🎓 PhD Student/Researcher in Computer Science at the University of New South Wales, Australia.
 
 ---
 
