@@ -11,7 +11,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a researcher in Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a researcher in Artificial Intelligence <img src="images/ai1.gif" width="30"> from Egypt.
 
 - 👨🏻‍💻 working as a Software Engineer and contributing to solve AI Problems.
 - 📝 Assistant Lecturer at Benha University, Faculty of Science, Department of Computer Science, Egypt.
