@@ -20,7 +20,9 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
 
 ---
 
-### 📫 Connect with me:
+<!-- ### 📫 Connect with me: -->
+### <img src="images/connect_me.gif" width="30"> Connect with me:
+
 <p align="left">
     <a href="https://twitter.com/dr_reda_ghanem" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
