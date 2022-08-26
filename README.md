@@ -116,7 +116,7 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
 ---
 
 <!-- ### 🔥 &nbsp; My Stats : -->
-### <img src="images/fire.gif" width="20" hight="10"> &nbsp; My Stats : <img src="images/line.gif" width="200">
+### <img src="images/fire.gif" width="20"> &nbsp; My Stats :
 
 <p style="display: table;"><img
         src="https://github-readme-stats.vercel.app/api?username=redaghanem&show_icons=true&locale=en"
