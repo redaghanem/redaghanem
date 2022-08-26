@@ -1,3 +1,9 @@
+<!-- 
+Author: Reda Ghanem
+Date: 26/08/2022
+Location: Canberra, Australia 
+-->
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 <h3 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Reda Ghanem
@@ -5,23 +11,27 @@
 
 <!-- <h1></h1> -->
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p> -->
+
+<p align="center"><img src="images/focus2.gif" width="740" height="490" /></p>
+
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
 
 <!-- ### :woman_technologist: &nbsp;About Me : -->
-### <img src="images/about_me.gif" width="25"> About Me :
+### <img src="images/about_me.gif" width="25"> &nbsp; About Me :
 
-I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"> from Egypt <img src="images/EG.gif" width="10">.
+I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"> from Egypt <img src="images/EG.gif" width="20">.
 
-- 👨🏻‍💻 working as a Software Engineer and contributing to solve AI Problems.
-- 📝 Assistant Lecturer at Benha University, Faculty of Science, Department of Computer Science, Egypt <img src="images/EG.gif" width="10">.
-- 👨🏻‍🎓 PhD Student/Researcher in Computer Science at the University of New South Wales, Australia <img src="images/AU.gif" width="10">.
+- 👨🏻‍💻 Working as a Software Engineer and contributing to solving AI Problems.
+- 📝 Assistant Lecturer at Benha University, Faculty of Science, Department of Computer Science, Egypt <img src="images/EG.gif" width="20">.
+- 👨🏻‍🎓 PhD Student/Researcher in Computer Science at the University of New South Wales, Australia <img src="images/AU.gif" width="20">.
+- 🔭 My main research areas are Artificial Intelligence, Swarm Intelligence, Robotics, and Optimization.
 
 ---
 
 <!-- ### 📫 Connect with me: -->
-### <img src="images/connect_me.gif" width="40"> Connect with me:
+### <img src="images/connect_me.gif" width="30">  &nbsp; Connect with me:
 
 <p align="left">
     <a href="https://linkedin.com/in/dr-reda-ghanem" target="_blank"><img align="center"
@@ -49,7 +59,7 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp; Languages and Tools :
 
 <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
@@ -106,7 +116,9 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
 
 ---
 
-### 🔥 &nbsp; My Stats :
+<!-- ### 🔥 &nbsp; My Stats : -->
+### <img src="images/fire1.gif" width="20"> &nbsp; My Stats :
+
 <p style="display: table;"><img
         src="https://github-readme-stats.vercel.app/api?username=redaghanem&show_icons=true&locale=en"
         alt="redaghanem" /></p>
