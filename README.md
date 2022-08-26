@@ -1,17 +1,17 @@
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
-<p   align="center">
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h3 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Reda Ghanem</h3>
+
+<!-- <h1></h1> -->
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
+<!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
+
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Researcher in Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a researcher in Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
 - 🔭 I’m working as a Software Engineer and contributing to solve AI Problems.
 - 🌱 Assistant Lecturer at Benha University, Faculty of Science, Department of Computer Science.
@@ -37,11 +37,10 @@ I am a Researcher in Artificial Intelligence <img src="https://media.giphy.com/m
 ---
 
 ### 🔥 &nbsp; My Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redaghanem&show_icons=true&locale=en&layout=compact" alt="redaghanem" /></p>
+<p style="display: table;"><img src="https://github-readme-stats.vercel.app/api?username=redaghanem&show_icons=true&locale=en" alt="redaghanem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redaghanem&show_icons=true&locale=en" alt="redaghanem" /></p>
+<p style="display: table;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=redaghanem&" alt="redaghanem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redaghanem&" alt="redaghanem" /></p>
----
+<p style="display: table;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=redaghanem&show_icons=true&locale=en&layout=compact" alt="redaghanem" /></p>
 
 
