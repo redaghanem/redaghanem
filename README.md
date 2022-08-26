@@ -9,9 +9,10 @@
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
 
-### :woman_technologist: &nbsp;About Me :
+<!-- ### :woman_technologist: &nbsp;About Me : -->
+### <img src="images/aBOUT_ME.gif" width="20"> About Me :
 
-I am a researcher in Artificial Intelligence <img src="images/ai1.gif" width="50"> from Egypt.
+I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"> from Egypt.
 
 - 👨🏻‍💻 working as a Software Engineer and contributing to solve AI Problems.
 - 📝 Assistant Lecturer at Benha University, Faculty of Science, Department of Computer Science, Egypt.
