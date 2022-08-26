@@ -43,4 +43,3 @@ I am a researcher in Artificial Intelligence <img src="https://media.giphy.com/m
 
 <p style="display: table;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=redaghanem&show_icons=true&locale=en&layout=compact" alt="redaghanem" /></p>
 
-
