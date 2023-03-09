@@ -33,22 +33,22 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
 ### <img src="images/connect_me.gif" width="20">  &nbsp; Connect with me:
 
 <p align="left">
-    <a href="https://linkedin.com/in/dr-reda-ghanem" target="_blank"><img align="center"
+    <a href="https://linkedin.com/in/DrRedaGhanem" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="dr-reda-ghanem" height="30" width="40" /></a>
-    <a href="https://fb.com/00" target="_blank"><img align="center"
+    <a href="https://fb.com/DrRedaGhanem" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="00" height="30" width="40" /></a>
-    <a href="https://instagram.com/00" target="_blank"><img align="center"
+    <a href="https://instagram.com/DrRedaGhanem" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="00" height="30" width="40" /></a>
-    <a href="https://twitter.com/dr_reda_ghanem" target="_blank"><img align="center"
+    <a href="https://twitter.com/Dr_Reda_Ghanem" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="dr_reda_ghanem" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/redaghanem" target="_blank"><img align="center"
+    <a href="https://www.youtube.com/c/RedaGhanem" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="redaghanem" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/reda-ghanem" target="_blank"><img align="center"
+    <a href="https://stackoverflow.com/users/8751158/reda-ghanem" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="reda-ghanem" height="30" width="40" /></a>
     <a href="https://discord.gg/00" target="_blank"><img align="center"
