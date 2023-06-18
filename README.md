@@ -6,7 +6,9 @@ Location: Canberra, Australia
 
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=redaghanem&style=flat-square&color=blue" alt=""></p> -->
 
-<h3 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Reda Ghanem. <img src="https://komarev.com/ghpvc/?username=redaghanem&style=flat-square&color=blue" alt=""> </h3> 
+<img src="https://komarev.com/ghpvc/?username=redaghanem&style=flat-square&color=blue" alt="">
+
+<h3 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Reda Ghanem. </h3> 
 
 <!-- <h1></h1> -->
 
