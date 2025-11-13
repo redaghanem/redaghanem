@@ -132,8 +132,8 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
 
 
 ### 🧠 &nbsp; Publications :
-
-<ul>
+<div align="justify">
+<ol>
     <li>
         Ghanem, R., Ali, I. M., Kasmarik, K., & Garratt, M.  
         <em>Simulation-Based Multi-Objective Optimization for Mission Specific Tuning of Swarming Robots.</em>  
@@ -176,4 +176,5 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
         <strong>Benha Journal of Applied Sciences</strong>, 2020.  
         <a href="https://doi.org/10.21608/bjas.2020.226893" target="_blank">doi:10.21608/bjas.2020.226893</a>
     </li>
-</ul>
+</ol>
+</div>
