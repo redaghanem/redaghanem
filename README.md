@@ -129,3 +129,51 @@ I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"
 <p style="display: table;"><img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=redaghanem&show_icons=true&locale=en&layout=compact"
         alt="redaghanem" /></p>
+
+
+### 🧠 &nbsp; Publications :
+
+<ul>
+    <li>
+        Ghanem, R., Ali, I. M., Kasmarik, K., & Garratt, M.  
+        <em>Simulation-Based Multi-Objective Optimization for Mission Specific Tuning of Swarming Robots.</em>  
+        <strong>Swarm and Evolutionary Computation</strong>, 2025.  
+        <a href="https://doi.org/10.1016/j.swevo.2025.102215" target="_blank">doi:10.1016/j.swevo.2025.102215</a>
+    </li>
+    <li>
+        Abpeikar, S., Garratt, M., Anavatti, S., Ghanem, R., & Kasmarik, K.  
+        <em>A Dual-Task Deep Reinforcement Learning and Domain Transfer Architecture for Bootstrapping Swarming Collective Motion Skills.</em>  
+        <strong>IEEE Systems Journal</strong>, 2025.  
+        <a href="https://doi.org/10.1109/jsyst.2025.3536783" target="_blank">doi:10.1109/jsyst.2025.3536783</a>
+    </li>
+    <li>
+        Ghanem, R., Ali, I. M., Abpeikar, S., Kasmarik, K., & Garratt, M.  
+        <em>Optimizing and Predicting Swarming Collective Motion Performance for Coverage Problems Solving: A Simulation-Optimization Approach.</em>  
+        <strong>Engineering Applications of Artificial Intelligence</strong>, 2025.  
+        <a href="https://doi.org/10.1016/j.engappai.2024.109522" target="_blank">doi:10.1016/j.engappai.2024.109522</a>
+    </li>
+    <li>
+        Ghanem, R., Ali, I. M., Kasmarik, K., & Garratt, M.  
+        <em>Impact of Environmental Changes on Optimized Robotics Collective Motion for Multi-Objective Coverage Tasks.</em>  
+        <strong>Evolutionary Multi-Criterion Optimization (EMO)</strong>, Springer Nature Singapore, 2025.  
+        <a href="https://doi.org/10.1007/978-981-96-3506-1_21" target="_blank">doi:10.1007/978-981-96-3506-1_21</a>
+    </li>
+    <li>
+        Ghanem, R., Ali, I. M., Kasmarik, K., & Garratt, M.  
+        <em>Comparative Analysis of Simulation Models for Evolving Robot Collective Motion in Industrial Coverage and Inspection Tasks.</em>  
+        <strong>Proceedings of the 51st International Conference on Computers and Industrial Engineering (CIE51)</strong>, 2024.  
+        <a href="https://doi.org/10.26190/unsworks/31391" target="_blank">doi:10.26190/unsworks/31391</a>
+    </li>
+    <li>
+        Ghanem, R., & Loey, M.  
+        <em>Face Completion Using Generative Adversarial Network with Pretrained Face Landmark Generator.</em>  
+        <strong>International Journal of Intelligent Engineering and Systems</strong>, 2021.  
+        <a href="https://doi.org/10.22266/ijies2021.0430.26" target="_blank">doi:10.22266/ijies2021.0430.26</a>
+    </li>
+    <li>
+        Ghanem, R. M., & Ramadan, M. L.  
+        <em>A Novel Landmarked Face Database for Arab Celebrities.</em>  
+        <strong>Benha Journal of Applied Sciences</strong>, 2020.  
+        <a href="https://doi.org/10.21608/bjas.2020.226893" target="_blank">doi:10.21608/bjas.2020.226893</a>
+    </li>
+</ul>
